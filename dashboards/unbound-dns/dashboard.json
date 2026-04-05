@@ -335,7 +335,7 @@
                   "fixed": "transparent"
                 },
                 "image": {
-                  "fixed": "img/bg/dns-icon02.png"
+                  "fixed": "custom/img/dns-icon02.png"
                 }
               },
               "border": {
@@ -486,7 +486,7 @@
                   "fixed": "transparent"
                 },
                 "image": {
-                  "fixed": "img/bg/dns-icon01.png"
+                  "fixed": "custom/img/dns-icon01.png"
                 }
               },
               "border": {
@@ -676,7 +676,7 @@
                   "fixed": "transparent"
                 },
                 "image": {
-                  "fixed": "img/bg/dns-icon05.png"
+                  "fixed": "custom/img/dns-icon05.png"
                 }
               },
               "border": {
@@ -826,7 +826,7 @@
                   "fixed": "transparent"
                 },
                 "image": {
-                  "fixed": "img/bg/dns-icon04.png"
+                  "fixed": "custom/img/dns-icon04.png"
                 }
               },
               "border": {
@@ -940,7 +940,7 @@
                   "fixed": "transparent"
                 },
                 "image": {
-                  "fixed": "img/bg/opnsense.png"
+                  "fixed": "custom/img/opnsense.png"
                 },
                 "size": "fill"
               },
@@ -977,7 +977,7 @@
                   "fixed": "#573a3a00"
                 },
                 "image": {
-                  "fixed": "img/bg/unbound.png"
+                  "fixed": "custom/img/unbound.png"
                 },
                 "size": "fill"
               },
